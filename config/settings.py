@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'dedektor',
+    'ckeditor', #sonucta ckedıtor de bir 3. part uyg olduu icin buraya ekledik
 ]
 
 MIDDLEWARE = [
