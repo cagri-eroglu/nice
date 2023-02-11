@@ -1,3 +1,5 @@
 from django.contrib import admin
+from dedektor.models import KategoriModel
 
-# Register your models here.
+
+admin.site.register(KategoriModel)
